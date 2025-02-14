@@ -17,6 +17,7 @@
     "ai": "^3.4.33",
     "bcryptjs": "^2.4.3",
     "dotenv": "^16.4.7",
+    "framer-motion": "^12.4.2",
     "groq-sdk": "^0.15.0",
     "jsonwebtoken": "^9.0.2",
     "langchain": "^0.3.15",

@@ -2,7 +2,7 @@ import Navbar from "./components/Navbar";
 import "./global.css";
 
 export const metadata = {
-    title: "UCL-GPT",
+    title: "UCLGPT",
     description: "THe place to go for all your UEFA Champions League questions!"
 }
 

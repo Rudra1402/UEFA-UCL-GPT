@@ -2,8 +2,31 @@
 @tailwind components;
 @tailwind utilities;
 
+@font-face {
+    font-family: 'Nexa';
+    src: url('./assets/css/fonts/Nexa\ Light.otf') format('opentype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Nexa';
+    src: url('./assets/css/fonts/Nexa\ Regular.otf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Nexa';
+    src: url('./assets/css/fonts/Nexa\ Bold.otf') format('opentype');
+    font-weight: 700;
+    font-style: normal;
+}
+
 * {
-    font-family: Verdana, Tahoma, sans-serif;
+    font-family: 'Nexa', sans-serif, serif;
+    font-weight: 400;
+    font-style: normal;
 }
 
 body {
